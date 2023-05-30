@@ -1,0 +1,2 @@
+# GIM_APP
+I DEVELOPED THIS GIM APP USING REACT JS AND NODE JS. TO SEE THE APP VISIT https://adityagimapp.netlify.app/

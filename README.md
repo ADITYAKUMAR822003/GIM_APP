@@ -1,2 +1,2 @@
-# GIM_APP
+# GYM_APP
 I DEVELOPED THIS GYM APP USING REACT JS AND NODE JS. TO SEE THE APP VISIT https://adityagimapp.netlify.app/
